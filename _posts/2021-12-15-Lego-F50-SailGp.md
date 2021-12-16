@@ -29,8 +29,8 @@ Designing the sail was quite tricky until I found out it was a rigid wing that c
 
 {% include figure image_path="/assets/f50/bricklink.png" alt="bricklink order" caption="Bricklink order" %}
 
-This is where it's really important to make sure you built the model out of 2021 Lego parts, not the 1972 equivalent. Those 1972 parts are very hard to find! So after running through the parts list a few times, I found all the problem parts and resubmitted.
-Even still, the red 12 x 3 wedges for the nose of the hull was last produced in 2016 which makes them relatively rare and harder to find.
+This is where it's really important to make sure you build the model out of 2021 Lego parts, not the 1972 equivalent. Those 1972 parts are very hard to find! So after running through the parts list a few times, I found all the problem parts and resubmitted.
+Even still, the red 12 x 3 wedges for the nose of the hull was last produced in 2016 which makes them relatively rare.
 
 
 Over the next few weeks, parts started to arrive but it wasn't until the last few packages came that I could start the build.
@@ -57,3 +57,9 @@ The last thing to do was the jib. Do you know the saying "measure twice, cut onc
 
 Finished model, just in time for Sydney SailGP weekend!
 {% include figure image_path="/assets/f50/f50-last.png" alt="Final F50" caption="Finished model" %}
+
+According to Studio, the final model is 
+
+* 368 parts
+* 488 grams
+* 42.5 cm high
