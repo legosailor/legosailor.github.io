@@ -42,7 +42,7 @@ Since the design was all in Studio, it generates the instructions which comes in
 {% include figure image_path="/assets/f50/f50-instructions.png" alt="F50 instruction" caption="The instructions run to about 130 steps" %}
 
 
-To make the boat look really good, it needed some stickers. Luckily Team Denmark sent the club files for the viking so we could make t-shirts and cheer them on. Creating the sail decals would have been really hard to do without those files.
+To make the boat look really good, it needed some stickers. Luckily Team Denmark sent our club the files for their viking so we could make t-shirts and cheer them on. Creating the sail decals would have been really hard to do without those files.
 The other logos were found on the internet - apart from the Rolex on the jib which was recreated in Paint.NET.
 
 {% include figure image_path="/assets/f50/f50-decals.png" alt="F50 instruction" caption="Applying decals" %}
