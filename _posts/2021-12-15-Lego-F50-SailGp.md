@@ -23,9 +23,9 @@ I'd never heard of these boats before so after studying a lot of F50 pictures an
 
 The neat thing about Studio is that you can render photo realistic images. It was at this point, the club realised I have been building Lego a lot longer than I have been sailing ;)
 
-{% include figure image_path="/assets/f50/f50_v3.png" alt="F50 photorealistic render" caption="F50 photorealistic render" %}
+{% include figure image_path="/assets/f50/f50_v3.png" alt="F50 photorealistic render" caption="Team Denmark F50 render" %}
 
-Designing the sail was quite tricky until I found out it was a rigid wing that could be made out of layered plates. After a lot of tuning and tweaking and time running out, I exported the parts list to [bricklink.com](https://www.bricklink.com) and ordered the parts
+Designing the sail was quite tricky until I found out it was a rigid wing that could be made out of layered plates. After a lot of tuning and tweaking and with time running out, I exported the parts list to [bricklink.com](https://www.bricklink.com) and ordered the parts
 
 {% include figure image_path="/assets/f50/bricklink.png" alt="bricklink order" caption="Bricklink order" %}
 
@@ -33,16 +33,16 @@ This is where it's really important to make sure you build the model out of 2021
 Even still, the red 12 x 3 wedges for the nose of the hull was last produced in 2016 which makes them relatively rare.
 
 
-Over the next few weeks, parts started to arrive but it wasn't until the last few packages came that I could start the build.
+Over the next few weeks, parts started to arrive but it wasn't until the last few packages came that the build could properly start.
 
 {% include figure image_path="/assets/f50/f50-build.png" alt="Building the F50" caption="Building the F50" %}
 
-Since the design was all in Studio, it generates the instructions which comes in handy. You still need to hand edit some instructions so they make sense though.
+Since the design was all in Studio, it generates the instructions automatically which comes in handy. You still need to hand edit some instructions so they make sense though.
 
 {% include figure image_path="/assets/f50/f50-instructions.png" alt="F50 instruction" caption="The instructions run to about 130 steps" %}
 
 
-To make the boat look really good, it needed some stickers. Luckily Team Denmark sent our club the files for their viking so we could make t-shirts and cheer them on. Creating the sail decals would have been really hard to do without those files.
+To make the boat look really good, it needed some decals. Normally these come ready made in Lego sets, no such luck with this model! Luckily Team Denmark sent our club the viking files for making some Team Den t-shirts which were very useful. Creating the sail decals would have been really hard to do without those files.
 The other logos were found on the internet - apart from the Rolex on the jib which was recreated in Paint.NET.
 
 {% include figure image_path="/assets/f50/f50-decals.png" alt="F50 instruction" caption="Applying decals" %}
@@ -53,13 +53,15 @@ By now the model was looking pretty good
 
 The last thing to do was the jib. Do you know the saying "measure twice, cut once"? In the case of the jib it was more like measure 3 times, cut 3 times.
 
-{% include figure image_path="/assets/f50/f50-jib.png" alt="F50 jib" caption="Testing the jib" %}
+{% include figure image_path="/assets/f50/f50-jib.png" alt="F50 jib" caption="Fitting an oversized jib" %}
 
 Finished model, just in time for Sydney SailGP weekend!
 {% include figure image_path="/assets/f50/f50-last.png" alt="Final F50" caption="Finished model" %}
 
-According to Studio, the final model is 
+The final model is 
 
 * 368 parts
 * 488 grams
-* 42.5 cm high
+* 42 cm high
+* 30 cm long
+* 20 cm wide
