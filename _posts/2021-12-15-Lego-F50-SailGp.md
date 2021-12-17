@@ -55,6 +55,8 @@ The last thing to do was the jib. Do you know the saying "measure twice, cut onc
 
 {% include figure image_path="/assets/f50/f50-jib.png" alt="F50 jib" caption="Test fitting an oversized jib" %}
 
+{% include figure image_path="/assets/f50/f50-jibs.png" alt="F50 jib cutouts" caption="If at first you don't succeed..." %}
+
 Finished model, just in time for Sydney SailGP weekend!
 {% include figure image_path="/assets/f50/f50-last.png" alt="Final F50" caption="Finished model" %}
 
