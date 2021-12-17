@@ -9,4 +9,5 @@ I started sailing in 2020 at Connells Point Sailing Club as part of their Octobe
 
 I've been building Lego though for as long as I can remember.
 
-
+If you see me on the SailGP Ferry Saturday 18th, say hello.
+Or you can email me at <mailto:masterbuilder271+sailgp@gmail.com>
