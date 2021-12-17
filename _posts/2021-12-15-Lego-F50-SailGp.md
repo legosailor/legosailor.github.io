@@ -13,24 +13,31 @@ I sail at [Connells Point Sailing Club](https://www.facebook.com/ConnellsPointSC
 
 Here is how I made it!
 
-There is a Lego CAD program called [Studio](https://www.bricklink.com/v2/build/studio.page) which lets you choose from any brick ever made. It turns out this can be an issue when you accidentally pick a piece that was last made in 1972 yet looks exactly like one made in 2021. 
+There is a Lego CAD program called [Studio](https://www.bricklink.com/v2/build/studio.page) which lets you choose from a pallete of bricks and build a model. You can choose from any brick ever made - which can be a problem trying to find the right one.
 {% include figure image_path="/assets/f50/f50-studio.png" alt="Lego Studio" caption="Lego Studio" %}
 
 
-I'd never heard of these boats before so after studying a lot of F50 pictures and watching some YouTube videos, I built up the model in CAD. I have [Lego Technic Catamaran 42105](https://www.target.com.au/p/lego-reg-technic-catamaran-421-5/63370843) which gave me some inspiration for how to model the mast.
+Before November, I'd never heard of these boats so after studying a lot of pictures and watching some YouTube videos, I built up the model in CAD. I have [Lego Technic Catamaran 42105](https://www.target.com.au/p/lego-reg-technic-catamaran-421-5/63370843) which gave me some inspiration for how to model the mast.
 
 {% include figure image_path="/assets/f50/f50-start.png" alt="F50 modelled in Studio" caption="Modelling the F50 in Studio" %}
 
-The neat thing about Studio is that you can render photo realistic images. It was at this point, the club realised I have been building Lego a lot longer than I have been sailing ;)
+The neat thing about Studio is that you can render photo realistic images. 
 
 {% include figure image_path="/assets/f50/f50_v3.png" alt="F50 photorealistic render" caption="Team Denmark F50 render" %}
 
-Designing the sail was quite tricky until I found out it was a rigid wing that could be made out of layered plates. After a lot of tuning and tweaking and with time running out, I exported the parts list to [bricklink.com](https://www.bricklink.com) and ordered the parts
+It was at this point that the club realised I have been building Lego a lot longer than I have been sailing.
+
+Designing the sail was quite tricky until I found out it was a rigid wing that could be made out of layered plates. 
+
+
+{% include video id="p-u-aEHm9CU" provider="youtube" %}
+
+After a lot of tuning and tweaking and with time running out, I exported the parts list to [bricklink.com](https://www.bricklink.com) so I could order the pieces.
 
 {% include figure image_path="/assets/f50/bricklink.png" alt="bricklink order" caption="Bricklink order" %}
 
-This is where it's really important to make sure you build the model out of 2021 Lego parts, not the 1972 equivalent. Those 1972 parts are very hard to find! So after running through the parts list a few times, I found all the problem parts and resubmitted.
-Even still, the red 12 x 3 wedges for the nose of the hull was last produced in 2016 which makes them relatively rare.
+This is where it's really important to choose the right parts in Studio because there are 1972 pieces that look almost exactly like 2021 pieces. Which is fine until bricklink tries to find the genuine 1972 parts! So after running through the parts list a few times, I found all the problem parts and resubmitted.
+Even still, the red 12 x 3 wedges for the bow was last produced in 2016 which makes them relatively rare.
 
 
 Over the next few weeks, parts started to arrive but it wasn't until the last few packages came that the build could properly start.
@@ -42,7 +49,7 @@ Since the design was all in Studio, it generates the instructions automatically 
 {% include figure image_path="/assets/f50/f50-instructions.png" alt="F50 instruction" caption="The instructions run to about 130 steps" %}
 
 
-To make the boat look really good, it needed some decals. Normally these come ready made in Lego sets, no such luck with this model! Luckily Team Denmark sent our club the viking files for making some Team Den t-shirts which were very useful. Creating the sail decals would have been really hard to do without those files.
+To make the boat look really good, it needed some decals. Normally these come ready made in Lego sets, no such luck with this model! Luckily Team Denmark sent our club files for the viking to make our t-shirts which were very useful. Creating the sail decals would have been really hard to do without those files.
 The other logos were found on the internet - apart from the Rolex on the jib which was recreated in Paint.NET.
 
 {% include figure image_path="/assets/f50/f50-decals.png" alt="F50 instruction" caption="Applying decals" %}
@@ -57,8 +64,9 @@ The last thing to do was the jib. Do you know the saying "measure twice, cut onc
 
 {% include figure image_path="/assets/f50/f50-jibs.png" alt="F50 jib cutouts" caption="If at first you don't succeed..." %}
 
-Finished model, just in time for Sydney SailGP weekend!
-{% include figure image_path="/assets/f50/f50-last.png" alt="Final F50" caption="Finished model" %}
+Just in time for Sydney SailGP weekend, the model was finished. It was a lot of work but I think it turned out really well!
+
+{% include figure image_path="/assets/f50/f50-deepetch.png" alt="Final F50" caption="Fully built Team Denmark F50 Lego model" %}
 
 The final model is 
 
