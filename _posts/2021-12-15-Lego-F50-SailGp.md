@@ -49,12 +49,12 @@ Since the design was all in Studio, it generates the instructions automatically 
 {% include figure image_path="/assets/f50/f50-instructions.png" alt="F50 instruction" caption="The instructions run to about 130 steps" %}
 
 
-To make the boat look really good, it needed some decals. Normally these come ready made in Lego sets, no such luck with this model! Luckily Team Denmark sent our club files for the viking to make our t-shirts which were very useful. Creating the sail decals would have been really hard to do without those files.
+To give the boat some extra polish, it needed some decals. Normally these come ready made in Lego sets, no such luck with this model! Luckily Team Denmark sent our club files for the viking logo to make t-shirts to cheer them on. Creating the sail decals would have been really hard to do without those files.
 The other logos were found on the internet - apart from the Rolex on the jib which was recreated in Paint.NET.
 
 {% include figure image_path="/assets/f50/f50-decals.png" alt="F50 instruction" caption="Applying decals" %}
 
-By now the model was looking pretty good
+By now the model was coming together nicely.
 
 {% include figure image_path="/assets/f50/f50-real.png" alt="F50 model" caption="Almost finished F50" %}
 
