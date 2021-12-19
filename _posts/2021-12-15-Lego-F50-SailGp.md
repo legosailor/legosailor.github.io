@@ -75,3 +75,12 @@ The final model is
 * 42 cm high
 * 30 cm long
 * 20 cm wide
+
+## Update
+
+Team Denmark really liked my model! 🤩🤩
+
+{% include figure image_path="/assets/f50/j-teamden.jpg" alt="Team Denmark" caption="Visiting Team Denmark at White Bay, Sydney" %}
+
+
+## [And they made an insta post! ](https://www.instagram.com/sailgpden/tv/CXoYiDHjPGy/?utm_medium=share_sheet)
